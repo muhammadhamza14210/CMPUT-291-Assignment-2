@@ -1,0 +1,3 @@
+Question 2 mhamza2
+Find the year where the movie is streamed on Netflix and is on IMDB
+with more than 50 revenue

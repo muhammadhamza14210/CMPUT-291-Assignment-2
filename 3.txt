@@ -1,0 +1,4 @@
+Question 3 mhamza2
+Find the number of IMDB movies which are also on Netflix
+whose votes are greater than average and is streamed on Netflix 
+and Prime Video
