@@ -1,3 +1,3 @@
 Question 1 mhamza2
-Find the year, where the number of movies are listed in 
+Find the number of movies year wise, where the number of movies are listed in 
 IMDB and Netflix with null revenue in descending order 
